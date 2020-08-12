@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "npm-install-global": "^1.0.0"
+  },
+  "name": "solid-fortnight",
+  "description": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesster58/solid-fortnight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jesster58/solid-fortnight/issues"
+  },
+  "homepage": "https://github.com/Jesster58/solid-fortnight#readme"
+}
